@@ -1,5 +1,5 @@
 import React from 'react';
 
-const App = () => <div>HELLO hyesun</div>;
+const App = ():JSX.Element => <div>Hello</div>;
 
 export default App;
